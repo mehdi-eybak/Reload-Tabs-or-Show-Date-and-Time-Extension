@@ -1,3 +1,5 @@
+![Screenshot 2024-08-03 123815](https://github.com/user-attachments/assets/db1801b1-65d1-438d-a940-e5b4fd1d828d)
+
 Reload Tabs or Show Date and Time Extension
 Overview:
 Introducing the "Reload Tabs or Show Date and Time" extension, a versatile tool designed to enhance your browsing experience by offering two distinct functionalities at the click of a button. Whether you need to refresh all your open tabs quickly or display the current global and Iranian time, this extension has you covered.
